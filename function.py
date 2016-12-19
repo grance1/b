@@ -6,10 +6,7 @@ print cmp(1,2)
 print cmp(2,1)
 print cmp(3,3)
 print int('123')
-print int(12.34)
-print str(123)
-print str(1.23)
-print str('1.23')
+
 from math import fsum
 L = []
 # print L
