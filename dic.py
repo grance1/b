@@ -19,11 +19,6 @@ d = {'Adam':95,
      'Paul':75}
 print d
 print len(d)
-print d.get('Bart')
-dic = {95:'Adam',
-       85:'Lisa',
-       59:'Bart'}
-print dic[95]
 
 d = {'Adam':95,
      'Lisa':85,
