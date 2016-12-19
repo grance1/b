@@ -17,8 +17,6 @@ for x in L:
     n = n + 1
 print sum / n
 
-sum = 0
-x = 0
 while True:
     x = x + 1
     if x > 100:
